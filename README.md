@@ -76,11 +76,6 @@ By implementing these recommendations, Uber can enhance its operational efficien
 3. Review the dashboard (`Dashboard.png`) to gain insights from the visualized data.
 4. Refer to the recommendations document (`Uber_Rides_Data_Analysis_Documentation_and_Recommendations.docx`) for detailed documentation and suggestions for improvement.
 
-#### Collaborators
-- George Youhana  - georgeyouhana2@gmail.com
-- Mohamed Hesham - moahmedemammdev@gmail.com 
-
-Feel free to reach out to any of the collaborators for questions or further information regarding the project.
 
 #### Steps for Cloning the Project
 1. **Clone the Repository**:
